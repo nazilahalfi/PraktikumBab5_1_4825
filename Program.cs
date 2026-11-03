@@ -1,4 +1,4 @@
 ﻿Console.WriteLine("=== LATIHAN C# ===");
 Console.WriteLine("saya sedang belajar menerjemahkan algoritma");
-Console.WriteLine("Hasil dari 8 + 7 adalah ");
-Console.WriteLine(8 + 7);
+Console.WriteLine("Hasil dari 12 + 6 adalah ");
+Console.WriteLine(12 + 6);

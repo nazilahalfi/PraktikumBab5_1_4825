@@ -1,0 +1,6 @@
+# Hasil kompilasi .NET
+bin/
+obj/
+
+# Pengaturan Visual Studio Code
+.vscode/
